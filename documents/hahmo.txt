@@ -1,0 +1,10 @@
+idle 1,2,3,2
+lyönti vasen 4,5,4
+lyönti oikea 6,7,6
+Block 6,8,6
+potku vasen 9,10,9
+kyykky 11,12,11
+hyppy 13,14 tai 13 tai 14
+kävely 15,16,17,18
+potku oikea 19,20,19
+
